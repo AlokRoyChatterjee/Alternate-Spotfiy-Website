@@ -1,4 +1,4 @@
-### Developed Alternate-Spotfiy-Website using HTML and CSS
+### Developed Alternate-Spotify-Website using HTML and CSS
 ### Sample Website images shown below and in .jpg files above
 ![](page.JPG)
 ![](page2.JPG)
